@@ -1127,3 +1127,8 @@ pupupul.site##+js(aopr, popUrl)
 
 ! https://github.com/uBlockOrigin/uAssets/issues/23119
 cuervotv.me##+js(nowoif)
+
+! mangadex ad banners
+mangadex.*##.mx-auto.sm\:\!-mt-8.\!-mt-16.flex-col.flex.my-2.p-2.bg-accent
+mangadex.*##div.flex-col.flex > .flex-col.flex.my-2.p-2.bg-accent
+mangadex.*##.header.flex-col.flex.my-2.p-2.bg-accent
